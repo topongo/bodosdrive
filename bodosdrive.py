@@ -1,6 +1,6 @@
 import os
 import json
-from configs import Configs
+from TopongoConfigs.configs import Configs
 from templates import config_types as __config_types
 
 CONFIG_PATH = os.path.expanduser('~/.config/bodosdrive/config.json')
