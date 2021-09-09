@@ -1,6 +1,6 @@
 config_types = {
     "version": float,
-    "culo": {
+    "test": {
         "x": int,
         "y": int,
         "z": {
@@ -13,7 +13,7 @@ config_types = {
 
 config_defaults = {
     "version": 0.1,
-    "culo": {
+    "test": {
         "x": 10,
         "y": 20,
         "z": {
